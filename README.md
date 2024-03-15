@@ -49,5 +49,5 @@ In building this component, I learned about how to center the content to the scr
 
 ## Author
 
-- Website - [Add your name here](https://www.antonvasilache.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Antonvasilache)
+- Website - [Antonvasilache.com](https://www.antonvasilache.com)
+- Frontend Mentor - [@Antonvasilache](https://www.frontendmentor.io/profile/Antonvasilache)
