@@ -22,8 +22,8 @@ Building a QR code component using the provided design file, for desktop and mob
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Antonvasilache/qr-code)
-- Live Site URL: [Add live site URL here](https://qr-code-component-av.netlify.app/)
+- [Solution URL](https://github.com/Antonvasilache/qr-code)
+- [Live Site URL](https://qr-code-component-av.netlify.app/)
 
 ## My process
 
